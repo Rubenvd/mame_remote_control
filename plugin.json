@@ -1,0 +1,10 @@
+{
+  "plugin": {
+	"name": "remote_control",
+	"description": "Remote control plugin",
+	"version": "0.0.1",
+	"author": "Ruben Van Dijck",
+	"type": "plugin",
+	"start": "true"
+  }
+}
